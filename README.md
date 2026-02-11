@@ -57,12 +57,4 @@
 
 ## 📈 **Statistiques Github**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSuricate2&theme=dark&layout=compact" alt="Kevin Ferraretto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSuricate2&theme=dark&title_color=5842ff&locale=fr" alt="Kevin Ferraretto" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrSuricate2&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## **Vues du profil :**
-
-![Visitor Count](https://profile-counter.glitch.me/MrSuricate2/count.svg)
+[![trophy](https://github-profile-trophy-61shnvpg1-ryo-ma-s-team.vercel.app/?username=MrSuricate2&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
