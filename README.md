@@ -10,7 +10,7 @@
 
 <a href="https://kevin-ferraretto.fr/"><img src="https://img.shields.io/badge/Portfolio-kevin--ferraretto.fr-2b2b2c?style=for-the-badge&logo=googlechrome&logoColor=FFDB70" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/kevin-ferraretto/"><img src="https://img.shields.io/badge/LinkedIn-Kevin%20Ferraretto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=MrSuricate2&style=for-the-badge&color=ceb15a&labelColor=2b2b2c&label=Vues" alt="Vues du profil"/>
+<img src="https://hits.sh/github.com/MrSuricate2/MrSuricate2.svg?style=for-the-badge&label=Vues&color=ceb15a&labelColor=2b2b2c" alt="Vues du profil"/>
 
 </div>
 
